@@ -26,7 +26,6 @@ Thiết bị đã nhận được thông báo online từ sever thông báo rung
 
 ### 3. Máy gửi thông báo (More: Kết nối FireBase)
 Mô tả: Máy sẽ đóng vai trò như máy giao viên giúp chọn được người nhận, tiêu đề, nội dung và lưu lịch sử các thông báo đã gửi
-[Project máy gửi thông báo](https://github.com/ngtuananh24/gui_thong_bao)
 
 ![image](https://github.com/user-attachments/assets/b273fb10-9b90-40f7-91e9-d0dfa631a7be)
 
