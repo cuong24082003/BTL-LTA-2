@@ -1,7 +1,7 @@
 ## XÂY DỰNG CHƯƠNG TRÌNH NHẬN THÔNG BÁO CHO ĐIỆN THOẠI
-#### Author: Nguyễn Tuấn Anh
+#### Author: Phạm Nguyên Cương
 #### Class: K57KMT
-#### ID student: K215480106003
+#### ID student: K215480106010
 --------------
 ![image](https://github.com/user-attachments/assets/68ce3b42-17a9-4ff0-9a2b-0147ba539ab6)
 
