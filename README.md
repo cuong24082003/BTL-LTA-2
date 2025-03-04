@@ -64,8 +64,8 @@ Máy chủ sử dụng một broker MQTT để gửi các thông báo dưới d�
 ```python
 MQTT_BROKER = "f03f9ea0745245ce996d7f35c388d455.s1.eu.hivemq.cloud"
 MQTT_PORT = 8883
-MQTT_USERNAME = "ngtuananh24"
-MQTT_PASSWORD = "Anh2407@"
+MQTT_USERNAME = "cuongbeo24"
+MQTT_PASSWORD = "Cuong2408@"
 MQTT_TOPIC = "tb"
 ```
 
