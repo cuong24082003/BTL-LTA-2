@@ -7,7 +7,6 @@
 
 ## Demo
 
-https://github.com/user-attachments/assets/7ea54594-9795-45e3-ac94-6f333f16539a
 
 ### 1. Xây dựng một server gửi thống báo về điện thoại: [Link](https://github.com/ngtuananh24/API)
 
